@@ -1,6 +1,6 @@
 import socket
 import pyfiglet
-text = pyfiglet.figlet_format("ZWN _ CRAWL")
+text = pyfiglet.figlet_format("HG14")
 print(text)
 
 def main():
