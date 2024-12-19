@@ -25,5 +25,5 @@ HG14 is a simple client-server chat application implemented in Python. It facili
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/himanshigupta14/Client-Server-Chat.git
-cd Client-Server-Chat
+https://github.com/himanshigupta14/PVT-ROOM.git
+cd PVT-ROOMs
