@@ -26,4 +26,4 @@ HG14 is a simple client-server chat application implemented in Python. It facili
 
 ```bash
 https://github.com/himanshigupta14/PVT-ROOM.git
-cd PVT-ROOMs
+cd PVT-ROOM
