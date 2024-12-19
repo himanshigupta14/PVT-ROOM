@@ -2,7 +2,7 @@ import pyfiglet
 import socket
 import threading
 
-text = pyfiglet.figlet_format("ZWN _ CRAWL")
+text = pyfiglet.figlet_format("HG14")
 print(text)
 
 def handle_client(connection, address):
